@@ -9,7 +9,7 @@
 | <img src="https://avatars.githubusercontent.com/yuminnnnni?v=4" width=90px alt="오유민"/> |<img src="https://avatars.githubusercontent.com/yeona813?v=4" width=90px alt="안연아"/>  | <img src="https://avatars.githubusercontent.com/u/122000839?v=4" width=90px alt="김다은"/> | <img src="https://avatars.githubusercontent.com/oosedus?v=4" width=90px alt="오세연"/> |  
 | [@yuminnnnni](https://github.com/yuminnnnni) | [@yeona813](https://github.com/yeona813) |  [@daeun084](https://github.com/daeun084) |  [@oosedus](https://github.com/oosedus)  | 
 | 🕸️ Frontend Lead | 🕸️ Frontend  | 💻 Backend Lead | 💻 Backend |
-| | | 숭실대학교 컴퓨터학부 | 경희대학교 컴퓨터공학과 | 
+| | | 숭실대학교 컴퓨터학부 | 서울과학기술대학교 ITM전공 | 
 
 <br><br>
 
