@@ -9,7 +9,7 @@
 | <img src="https://avatars.githubusercontent.com/yuminnnnni?v=4" width=90px alt="오유민"/> |<img src="https://avatars.githubusercontent.com/yeona813?v=4" width=90px alt="안연아"/>  | <img src="https://avatars.githubusercontent.com/u/122000839?v=4" width=90px alt="김다은"/> | <img src="https://avatars.githubusercontent.com/oosedus?v=4" width=90px alt="오세연"/> |  
 | [@yuminnnnni](https://github.com/yuminnnnni) | [@yeona813](https://github.com/yeona813) |  [@daeun084](https://github.com/daeun084) |  [@oosedus](https://github.com/oosedus)  | 
 | 🕸️ Frontend Lead | 🕸️ Frontend  | 💻 Backend Lead | 💻 Backend |
-| | | 숭실대학교 컴퓨터학부 | 서울과학기술대학교 ITM전공 | 
+| 아주대학교 소프트웨어학과 | 서강대학교 수학과 | 숭실대학교 컴퓨터학부 | 서울과학기술대학교 ITM전공 | 
 
 <br><br>
 
@@ -60,6 +60,7 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 
 
 # 📊 ERD
-![CO_RECORD-3](https://github.com/user-attachments/assets/fa11665a-f23a-4526-b470-f540d00a077b)
+![CO_RECORD-2](https://github.com/user-attachments/assets/6381aafb-18d9-4f14-8a7b-612095eef990)
+
 
 <br><br>
