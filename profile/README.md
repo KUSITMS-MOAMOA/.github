@@ -47,6 +47,11 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=GithubActions&logoColor=white" />
 
+**Network & Security**  
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS Load Balancer-FF9900?style=flat&logo=AmazonAWS&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS Certificate Manager-527FFF?style=flat&logo=AmazonAWS&logoColor=white" />
+
 <br>
 
 ### 🌐 FrontEnd
