@@ -1,4 +1,4 @@
-## 🎯 Kusitms 30th 밋업 프로젝트 G조 CO:RECORD
+## 🎯 Kusitms 30th 밋업 프로젝트 G조 MOAMOA
 2024.09.28 ~
 <br><br>
 
