@@ -1,5 +1,5 @@
 ## 🎯 Kusitms 30th 밋업 프로젝트 G조 MOAMOA
-2024.09.28 ~
+2024.09.28 ~ 2024.11.28
 <br><br>
 
 
@@ -28,7 +28,6 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" />
 
-
 **Documentation**  
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black" />
 
@@ -55,7 +54,6 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 <br>
 
 ### 🌐 FrontEnd
-
 **Language & Framework**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
@@ -75,20 +73,55 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 ### 🌎 Co-Work
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />](https://github.com/FITPET-A)
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-<br><br><br>
+<br><br>
 
 
 # 🏛️ System Architecture
-<img width="731" alt="Architecture" src="https://github.com/user-attachments/assets/dc74ca61-993f-4d62-98ef-00f5303868d0">
-<br><br><br>
+![MOAMOA_ARCHITECTURE](https://github.com/user-attachments/assets/e2a1654a-5beb-422d-9ba9-1f9e20735fd6)
 
+<br><br>
 
 # 📊 ERD
-![CO_RECORD-2](https://github.com/user-attachments/assets/6381aafb-18d9-4f14-8a7b-612095eef990)
-
+![MOAMOA_ERD](https://github.com/user-attachments/assets/33a3e6ce-c5cf-419b-9635-b33de76b0342)
 
 <br><br>
 
 # 📏 Convention
+### 🛠️ BackEnd
+
+#### Commit Convention
+- **`ConventionType: 구현한 내용`** <br>
+
+#### Convention Type
+| convention type | description |
+| --- | --- |
+| `feat` | 새로운 기능 구현 |
+| `add` | 파일 및 코드 추가 |
+| `chore` | 부수적인 코드 수정 및 기타 변경사항 |
+| `docs` | 문서 추가 및 수정, 삭제 |
+| `fix` | 버그 수정 |
+| `rename` | 파일 및 폴더 이름 변경 |
+| `test` | 테스트 코드 추가 및 수정, 삭제 |
+| `refactor` | 코드 리팩토링 |
+| `!hotfix` | develop 브랜치에 급하게 커밋해야 하는 경우 |
+
+#### Issue
+- Issue Title : **`ConventionType: 작업할 내용`**
+- 모든 작업은 `Issue`를 만든 후, 해당 이슈 번호에 대한 branch를 통해 수행
+- 수행할 작업에 대한 설명과 할 일을 작성
+
+#### Pull Request
+- Pull Request Title : **`[ContentionType/#이슈번호] 작업한 내용`**
+- 수행한 작업에 대한 설명을 작성하고 관련 스크린샷을 첨부
+- Reviewer, Assigner, Label, Project, Milestone, 관련 이슈를 태그
+- 작업 중 참고한 자료 혹은 reviewer에게 전할 내용이 있다면 하단에 작성
+
+#### Branch
+- Branch Name : **`컨벤션명/#이슈번호`**
+- `Pull Request`를 통해 develop branch에 merge 후, 해당 branch 제거
+
+<br>
+
+### 🌐 FrontEnd
 [프론트엔드 코드 컨벤션](https://spiny-lake-7e5.notion.site/8929e1b5cc6b427787129e02875b4dbd?pvs=4)
 
