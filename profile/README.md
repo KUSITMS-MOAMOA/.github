@@ -135,7 +135,7 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 | `style` | 코드 의미에 영향을 주지 않는 변경사항 (코드 포맷팅, 오타 수정 등) |
 | `chore` | 빌드 부분 혹은 패키지 매니저 수정 사항 및 기타 변경사항 |
 | `fix` | 버그 수정 |
-| `remove` | 테스트 코드 추가 및 수정, 삭제 |
+| `remove` | 파일 및 코드 삭제 |
 
 #### Issue
 - Issue Title : **`[ConventionType] : 작업할 내용`**
