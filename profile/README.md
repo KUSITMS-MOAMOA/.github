@@ -8,7 +8,7 @@
 ✏️ **경험 기록**
 
 (1) 빠르고 간편하게, 꾸준하게  ➡️  **AI 채팅 기록, 메모 기록** <br>
-(2) 경험 구체화 ➡️ 경험 기록 / 역량 분석에 최적화된 프롬프트 활용 <br><br>
+(2) 경험 구체화 ➡️ **경험 기록 / 역량 분석에 최적화된 프롬프트 활용** <br><br>
 
 
 📈 **역량 분석**
@@ -16,10 +16,7 @@
 (1)  **AI 경험 요약** ➡️ 경험에서 핵심 내용을 추출해요 <br>
 (2) **AI 역량 분석** ➡️ 작성한 경험을 바탕으로 유저의 경험과 역량을 유기적으로 연결해요 
 
-
-
 <br>
-
 
 
 # 👩🏻‍💼 팀 소개
@@ -39,7 +36,7 @@
 
 <img width="1920" alt="team" src="https://github.com/user-attachments/assets/92f49637-63c2-4d39-b3c0-99b297b65085">
 
-<br>
+<br><br>
 
 | **분야** | **이름** | **포지션** |
 | --- | --- | --- |
@@ -53,7 +50,7 @@
 | **백엔드 리드** | [김다은](https://github.com/daeun084) | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
 | **백엔드** | [오세연](https://github.com/oosedus) | 🖥️ DB 및 API 구축, 서버 배포 |
 
-<br><br><br>
+<br><br>
 
 
 # ❓ 문제 인식(Problem) 
@@ -69,7 +66,8 @@
 
 
 ### 서비스 개발 동기
-> 🤔 **”아 경험 정리 해야 하는데 .. 언제 다 하지? 미리 할 걸 ”** <br>
+> 🤔 **”아 경험 정리 해야 하는데 .. 언제 다 하지? 미리 할 걸 ”**
+<br>
 
 인턴으로 일하면서 경험이 잊혀지는 게 아쉬워 노션에 기록했지만, <br>
 *막상 자소서 쓸 때 큰 도움이 되지 않았어요.* <br>
@@ -81,13 +79,12 @@
 
 ### 서비스의 목적(필요성)
 > 얼어붙은 취업 시장, 스펙 전쟁 시대. <br>
-> 차별화된 나만의 경험과 역량으로 경쟁력을 갖추는 것이 중요해졌어요. <br>
+> 차별화된 나만의 경험과 역량으로 경쟁력을 갖추는 것이 중요해졌어요.
+<br>
 
 💡 팀 뫄뫄는 , <br>
-
 (1) 기록한 경험을 적재적소에 활용할 수 있는 <br>
 (2) 나의 역량이 돋보이도록 경험을 분석해주는 <br>
-
 **경험 정리 서비스** 를 기획해 취준생의 경험 정리 부담을 덜고 싶어요. <br><br>
 <img width="1920" alt="service_goal" src="https://github.com/user-attachments/assets/f0cdd49a-9d30-42c4-a8aa-2893dd3cebb1"> <br><br><br>
 
@@ -110,10 +107,11 @@
     - 내 경험이 어떤 역량을 길러주었는지 알아내어 나의 역량과 부족한 점을 파악하고 발전시키고 싶어요
     - 나의 역량을 이용해서 자기소개서나 면접에서 효과적으로 활용하고 싶어요
 
-<br>
+<br><br>
 
 ### 페르소나 설정
 > **👤 취준생 / 최민영 (25. 여자)**
+<br>
 
 **1️⃣ Situation** 
 - 취업을 위해 다양한 경험 쌓는 중
@@ -168,9 +166,9 @@
 <br><br>
 
 # 🔍 기능 살펴보기 
-#### 1️⃣ STEP 1 : 경험 기록
+### 1️⃣ STEP 1 : 경험 기록
 <img width="1920" alt="서비스 point" src="https://github.com/user-attachments/assets/36f122a9-80e4-434c-b2b2-2e9e3bb329b8">
-<img width="1920" alt="서비스 point-1" src="https://github.com/user-attachments/assets/a6404091-e9fe-4e51-9e03-e3e258dae499">
+<img width="1920" alt="서비스 point-1" src="https://github.com/user-attachments/assets/a6404091-e9fe-4e51-9e03-e3e258dae499"> <br><br>
 
 **💬 AI 채팅 기록** : **AI와 경험 구체화** <br>
 - STAR 기법을 학습한 채팅 프롬프팅으로 고도화된 답변을 받을 수 있어요
@@ -185,13 +183,16 @@
 **🗂️ 경험 모아보기 : 체계적인 경험 정리** <br>
 - 날짜별, 경험 종류별, 역량 키워드별로 폴더링해요
 - 필요한 내용을 빠르게 찾아 활용할 수 있어요
-<br><br>
+<br><br><br>
 
 
-#### 2️⃣ STEP 2 : 역량 모아보기
+### 2️⃣ STEP 2 : 역량 모아보기
 <img width="1920" alt="서비스 point-2" src="https://github.com/user-attachments/assets/6ee1d558-1437-412f-95a8-377754b3a364">
 <img width="1920" alt="서비스 point-3" src="https://github.com/user-attachments/assets/d1eb9dd0-900d-4ca9-958a-61cafd7fcacc">
-<img width="1920" alt="463" src="https://github.com/user-attachments/assets/24e54064-9448-4ee9-807d-e4d7f0300378">
+<img width="1920" alt="prompt" src="https://github.com/user-attachments/assets/56c9ce6b-6c42-45ca-bb12-5cd8425ffdba">
+
+
+
 
 **🔎 역량 키워드 모아보기 : 역량별로 정리된 경험** <br>
 - 특정 역량과 관련된 경험을 손쉽게 찾아 활용할 수 있어요
@@ -204,7 +205,7 @@
 **👩🏻‍💻 경험 요약 ∙ 핵심 역량 추출 ∙ 피드백** <br>
 - 경험별로 핵심 역량을 추출하고 상세 분석 내용을 제공해요
 - 경험에 대한 구체적인 피드백을 지원해요
-<br><br><br>
+<br><br><br><br>
 
 
 
@@ -221,8 +222,8 @@
 
 
 # 💰 비즈니스 모델
-<img width="1920" alt="비즈니스모델" src="https://github.com/user-attachments/assets/8e1537fb-d4a2-4208-883c-875f4b9fe069">
-![비즈니스 모델2](https://github.com/user-attachments/assets/238ac2fb-1ad2-4b70-988f-c76838eafb41)
+![비즈니스모델](https://github.com/user-attachments/assets/36d5ac37-8ff4-478b-8375-c3733afc05e3)
+![비즈니스 모델2](https://github.com/user-attachments/assets/519921d9-af83-4d79-b4c7-db8fb2788c4e)
 
 
 
