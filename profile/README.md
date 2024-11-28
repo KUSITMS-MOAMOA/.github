@@ -4,7 +4,6 @@
 
 <br><br>
 
-![간지장표](https://github.com/user-attachments/assets/1113c19d-2721-450f-a963-74ff6d0c6bb2)
 
 
 
@@ -12,7 +11,6 @@
 <br>
 
 
-# 👥 Member
 |  오유민  |  안연아  |   김다은   |   오세연   |                                                                                                   
 | :-----: | :----: | :------: |:--------: | 
 | <img src="https://avatars.githubusercontent.com/yuminnnnni?v=4" width=90px alt="오유민"/> |<img src="https://avatars.githubusercontent.com/yeona813?v=4" width=90px alt="안연아"/>  | <img src="https://avatars.githubusercontent.com/u/122000839?v=4" width=90px alt="김다은"/> | <img src="https://avatars.githubusercontent.com/oosedus?v=4" width=90px alt="오세연"/> |  
@@ -22,8 +20,104 @@
 
 <br><br>
 
-# ✏️ Project
-<img width="1920" alt="background" src="https://github.com/user-attachments/assets/8f603160-4322-473b-aa5b-2ca17e6c5f86">
+
+
+# 👩🏻‍💼 팀 소개
+
+
+> **📝 경험과 역량을 모아모아!** <br>
+> 안녕하세요, AI 역량 분석 서비스 ‘모아모아’를 만든 팀 ‘뫄뫄’입니다. 👩🏻‍🏫 <br>
+>
+> 모아모아는 취준생 9명이 만든 취업 준비 서비스에요. <br>
+> 그래서 누구보다 유저의 Pain Point를 잘 알고 있죠.  <br>
+>
+> **‘경험 정리는 각 잡고 해야 하는 부담스러운 일’** 이라는 통념을 깨기 위해 모아모아를 만들었어요. <br>
+> **유저의 데일리 경험을 역량과 연결해, 치열하게 모은 경험이 휘발되지 않도록 도와드릴게요!**  <br>
+> 막연하고 답답한 취업 준비, 팀 뫄뫄가 만들어 갈 변화를 기대해 주세요😉 <br>
+
+<br>
+
+<img width="1920" alt="team" src="https://github.com/user-attachments/assets/92f49637-63c2-4d39-b3c0-99b297b65085">
+
+<br>
+
+| **분야** | **이름** | **포지션** |
+| --- | --- | --- |
+| **PM** | 최시현 | 📈 PM, 서비스 기획 - 서비스 정책 확립, 비즈니스 모델 구축 |
+| **기획 리드** | 오민지 | 📊서비스 기획 - 유저 리서치, 와이어프레임 작성, UX writing |
+| **기획** | 안수영 | 📋 서비스 기획 - 서비스 정책 확립, 비즈니스 모델 구축 |
+| **디자인 리드** | 김한결 | 🔐 디자인 리드,  ux/ui디자인, gui 디자인 |
+| **디자인**  | 김승은 | 📢 ux/ui디자인, gui 디자인 |
+| **프론트엔드 리드** | 오유민 | 🔦 프론트엔드 리드, 화면 UI 구현, 서버 연동 |
+| **프론트엔드** | 안연아 | 📱 화면 UI 구현, 서버 연동 |
+| **백엔드 리드** | 김다은 | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
+| **백엔드** | 오세연 | 🖥️ DB 및 API 구축, 서버 배포 |
+
+<br><br><br>
+
+# 🌟 서비스 개요
+![간지장표](https://github.com/user-attachments/assets/1113c19d-2721-450f-a963-74ff6d0c6bb2)
+
+<br>
+
+## 핵심 기능
+
+✏️ **경험 기록**
+
+(1) 빠르고 간편하게, 꾸준하게  ➡️  **AI 채팅 기록, 메모 기록** <br>
+(2) 경험 구체화 ➡️ 경험 기록 / 역량 분석에 최적화된 프롬프트 활용 <br><br>
+
+
+📈 **역량 분석**
+
+(1)  **AI 경험 요약** ➡️ 경험에서 핵심 내용을 추출해요 <br>
+(2) **AI 역량 분석** ➡️ 작성한 경험을 바탕으로 유저의 경험과 역량을 유기적으로 연결해요 
+
+<br><br><br>
+
+
+# ❓ 문제 인식(Problem) 
+## Desk Research (시장 분석) 
+
+👩🏻‍🏫 세 줄 요약 <br>
+1. 채용 인원의 축소 및 불규칙적인 채용 기간 등으로 인해 **얼어버린 취업 시장** <br>
+2. 경쟁력을 얻기 위한 **‘스펙 전쟁’** (스펙 상향 평준화) <br>
+3. 결국, 경험에서 비롯한 **나만의 핵심 역량(필살기)** 을 뽑아내는 것이 중요해짐 <br>
+
+<img width="1920" alt="background" src="https://github.com/user-attachments/assets/8f603160-4322-473b-aa5b-2ca17e6c5f86"> <br><br>
+
+
+
+## 서비스 개발 동기
+🤔 **”아 경험 정리 해야 하는데 .. 언제 다 하지? 미리 할 걸 ”** <br>
+
+인턴으로 일하면서 경험이 잊혀지는 게 아쉬워 노션에 기록했지만, <br>
+*막상 자소서 쓸 때 큰 도움이 되지 않았어요.* <br>
+기록을 하나씩 훑어보며 경험을 정리하고 역량을 도출하는 과정이 부담스러웠고, 대충 적어둔 메모는 핵심을 파악하기 어렵더라고요. <br>
+
+**그래서 만들었어요. 매일의 경험을 간편하게 기록하고 분석까지 도와주는 서비스 ‘모아모아’를요!** <br><br>
+<img width="1920" alt="background-2" src="https://github.com/user-attachments/assets/da2c1556-f99b-4d06-91e3-260182e20e2e"> <br><br>
+
+
+## 서비스의 목적(필요성)
+🎓 얼어붙은 취업 시장, 스펙 전쟁 시대. <br>
+차별화된 나만의 경험과 역량으로 경쟁력을 갖추는 것이 중요해졌어요. <br><br>
+
+💡 팀 뫄뫄는 , <br>
+
+(1) 기록한 경험을 적재적소에 활용할 수 있는 <br>
+(2) 나의 역량이 돋보이도록 경험을 분석해주는 <br>
+
+경험 정리 서비스를 기획해 취준생의 경험 정리 부담을 덜고 싶어요. <br><br>
+<img width="1920" alt="service_goal" src="https://github.com/user-attachments/assets/f0cdd49a-9d30-42c4-a8aa-2893dd3cebb1"> <br><br><br>
+
+
+
+
+# 👩🏻‍🏫 사용자(User)   
+
+
+
 <img width="1920" alt="painpoint-solution" src="https://github.com/user-attachments/assets/5ac89812-979c-4f72-a123-962ca287471e">
 <img width="1920" alt="서비스 소개" src="https://github.com/user-attachments/assets/958f4a42-d745-4c15-970c-33ba1fbc48a6">
 
