@@ -1,6 +1,12 @@
 ## 🎯 Kusitms 30th 밋업 프로젝트 G조 MOAMOA
-2024.09.28 ~ 2024.11.28
+> 개발 기간 : 2024.09.28 ~ 2024.11.28 <br>
+> 배포 주소 : https://www.corecord.site
+
 <br><br>
+
+![간지장표](https://github.com/user-attachments/assets/350d30a3-a9e4-4c51-954c-a9cce18fb1f6)
+
+<br>
 
 
 # 👥 Member
@@ -13,10 +19,14 @@
 
 <br><br>
 
+# ✏️ Project
+<img width="1920" alt="서비스 point" src="https://github.com/user-attachments/assets/36f122a9-80e4-434c-b2b2-2e9e3bb329b8">
+<img width="1920" alt="서비스 point-1" src="https://github.com/user-attachments/assets/a6404091-e9fe-4e51-9e03-e3e258dae499">
+<img width="1920" alt="서비스 point-2" src="https://github.com/user-attachments/assets/6ee1d558-1437-412f-95a8-377754b3a364">
+<img width="1920" alt="서비스 point-3" src="https://github.com/user-attachments/assets/d1eb9dd0-900d-4ca9-958a-61cafd7fcacc">
+<img width="1920" alt="463" src="https://github.com/user-attachments/assets/24e54064-9448-4ee9-807d-e4d7f0300378">
 
-# 📄 API 명세서
-https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
-<br><br><br>
+<br><br>
 
 
 # 💻 Stack
