@@ -104,7 +104,7 @@
     - 내 경험이 어떤 역량을 길러주었는지 알아내어 나의 역량과 부족한 점을 파악하고 발전시키고 싶어요
     - 나의 역량을 이용해서 자기소개서나 면접에서 효과적으로 활용하고 싶어요
 
-<br><br>
+<br>
 
 ### 페르소나 설정
 > **👤 취준생 / 최민영 (25. 여자)**
@@ -305,11 +305,6 @@
 
 **Deployment**  
 <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
-
-<br>
-### 🌎 Co-Work
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />](https://github.com/KUSITMS-MOAMOA)
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 
 
 <br><br>
