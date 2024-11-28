@@ -25,7 +25,7 @@
 # ✏️ Project
 <img width="1920" alt="background" src="https://github.com/user-attachments/assets/8f603160-4322-473b-aa5b-2ca17e6c5f86">
 <img width="1920" alt="painpoint-solution" src="https://github.com/user-attachments/assets/5ac89812-979c-4f72-a123-962ca287471e">
-<img width="1920" alt="service_goal" src="https://github.com/user-attachments/assets/181557ab-bb74-420b-8682-385ba71e76fa">
+<img width="1920" alt="서비스 소개" src="https://github.com/user-attachments/assets/958f4a42-d745-4c15-970c-33ba1fbc48a6">
 
 <img width="1920" alt="서비스 point" src="https://github.com/user-attachments/assets/36f122a9-80e4-434c-b2b2-2e9e3bb329b8">
 <img width="1920" alt="서비스 point-1" src="https://github.com/user-attachments/assets/a6404091-e9fe-4e51-9e03-e3e258dae499">
