@@ -5,16 +5,11 @@
 <br><br>
 ![간지장표](https://github.com/user-attachments/assets/6cbc462a-4db6-4f1c-9744-39851b881585)
 
-✏️ **경험 기록**
+> **“몇 마디 대화를 나눴을 뿐인데 경험 정리가 끝났어요!” <br>
+> “경험을 말하니까 나의 역량을 찾아줘요”**
 
-(1) 빠르고 간편하게, 꾸준하게  ➡️  **AI 채팅 기록, 메모 기록** <br>
-(2) 경험 구체화 ➡️ **경험 기록 / 역량 분석에 최적화된 프롬프트 활용** <br><br>
+모아모아(MOAMOA)는 막막하게 느껴지던 경험 정리를 매일 조금씩 하도록 돕고, AI가 경험을 분석해 나만의 역량을 찾아줘요!  <br>
 
-
-📈 **역량 분석**
-
-(1)  **AI 경험 요약** ➡️ 경험에서 핵심 내용을 추출해요 <br>
-(2) **AI 역량 분석** ➡️ 작성한 경험을 바탕으로 유저의 경험과 역량을 유기적으로 연결해요 
 
 <br>
 
@@ -82,11 +77,13 @@
 > 차별화된 나만의 경험과 역량으로 경쟁력을 갖추는 것이 중요해졌어요.
 <br>
 
-💡 팀 뫄뫄는 , <br>
+💡 팀 뫄뫄는 ,
+
 (1) 기록한 경험을 적재적소에 활용할 수 있는 <br>
 (2) 나의 역량이 돋보이도록 경험을 분석해주는 <br>
-**경험 정리 서비스** 를 기획해 취준생의 경험 정리 부담을 덜고 싶어요. <br><br>
-<img width="1920" alt="service_goal" src="https://github.com/user-attachments/assets/f0cdd49a-9d30-42c4-a8aa-2893dd3cebb1"> <br><br><br>
+
+**경험 정리 서비스**를 기획해 취준생의 경험 정리 부담을 덜고 싶어요. <br><br>
+<img width="1920" alt="service_goal" src="https://github.com/user-attachments/assets/f0cdd49a-9d30-42c4-a8aa-2893dd3cebb1"> <br><br>
 
 
 
@@ -132,10 +129,19 @@
 
 
 # 📝 서비스 소개
-> **“몇 마디 대화를 나눴을 뿐인데 경험 정리가 끝났어요!” <br>
-> “경험 정리를 했더니, 나의 역량을 알려줘요”**
 
-모아모아(MOAMOA)는 막막하게 느껴지던 경험 정리를 매일 조금씩 하도록 돕고, AI가 경험을 분석해 나만의 역량을 찾아줍니다!  <br>
+### 핵심 기능
+✏️ **경험 기록**
+
+(1) 빠르고 간편하게, 꾸준하게  ➡️  **AI 채팅 기록, 메모 기록** <br>
+(2) 경험 구체화 ➡️ **경험 기록 / 역량 분석에 최적화된 프롬프트 활용** <br><br>
+
+📈 **역량 분석** 
+
+(1)  **AI 경험 요약** ➡️ 경험에서 핵심 내용을 추출해요 <br>
+(2) **AI 역량 분석** ➡️ 작성한 경험을 바탕으로 유저의 경험과 역량을 유기적으로 연결해요  
+<br><br>
+
 
 
 ### 서비스 IA (정보구조도)
@@ -301,26 +307,9 @@
 <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" />
 
 <br>
-
 ### 🌎 Co-Work
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />](https://github.com/KUSITMS-MOAMOA)
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-<br><br>
-
-
-# 🏛️ System Architecture
-![MOAMOA_ARCHITECTURE](https://github.com/user-attachments/assets/e2a1654a-5beb-422d-9ba9-1f9e20735fd6)
-
-<br><br>
-
-# 📊 ERD
-![MOAMOA_ERD](https://github.com/user-attachments/assets/33a3e6ce-c5cf-419b-9635-b33de76b0342)
-
-<br><br>
-
-# 🗒️ API 명세서
-https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
-
 
 
 <br><br>
@@ -390,3 +379,27 @@ https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
 #### Branch
 - Branch Name : **`컨벤션명/작업 내용`**
 - `Pull Request`를 통해 develop branch에 merge 후, 해당 branch 제거
+
+
+<br><br>
+
+
+# 🏛️ System Architecture
+![MOAMOA_ARCHITECTURE](https://github.com/user-attachments/assets/e2a1654a-5beb-422d-9ba9-1f9e20735fd6)
+
+<br><br>
+
+# 📊 ERD
+![MOAMOA_ERD](https://github.com/user-attachments/assets/33a3e6ce-c5cf-419b-9635-b33de76b0342)
+
+<br><br>
+
+# 🗒️ API 명세서
+https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
+
+<br><br>
+
+# 🛠️ 성능 테스트
+<img width="1920" alt="성능테스트" src="https://github.com/user-attachments/assets/4320cd52-939d-4164-8a3f-e7bd9fc492a9">
+
+
