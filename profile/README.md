@@ -3,16 +3,22 @@
 > 배포 주소 : https://www.corecord.site
 
 <br><br>
+![간지장표](https://github.com/user-attachments/assets/6cbc462a-4db6-4f1c-9744-39851b881585)
+
+✏️ **경험 기록**
+
+(1) 빠르고 간편하게, 꾸준하게  ➡️  **AI 채팅 기록, 메모 기록** <br>
+(2) 경험 구체화 ➡️ 경험 기록 / 역량 분석에 최적화된 프롬프트 활용 <br><br>
 
 
-|  오유민  |  안연아  |   김다은   |   오세연   |                                                                                                   
-| :-----: | :----: | :------: |:--------: | 
-| <img src="https://avatars.githubusercontent.com/yuminnnnni?v=4" width=90px alt="오유민"/> |<img src="https://avatars.githubusercontent.com/yeona813?v=4" width=90px alt="안연아"/>  | <img src="https://avatars.githubusercontent.com/u/122000839?v=4" width=90px alt="김다은"/> | <img src="https://avatars.githubusercontent.com/oosedus?v=4" width=90px alt="오세연"/> |  
-| [@yuminnnnni](https://github.com/yuminnnnni) | [@yeona813](https://github.com/yeona813) |  [@daeun084](https://github.com/daeun084) |  [@oosedus](https://github.com/oosedus)  | 
-| 🕸️ Frontend Lead | 🕸️ Frontend  | 💻 Backend Lead | 💻 Backend |
-| 아주대학교 소프트웨어학과 | 서강대학교 수학과 | 숭실대학교 컴퓨터학부 | 서울과학기술대학교 ITM전공 | 
+📈 **역량 분석**
 
-<br><br>
+(1)  **AI 경험 요약** ➡️ 경험에서 핵심 내용을 추출해요 <br>
+(2) **AI 역량 분석** ➡️ 작성한 경험을 바탕으로 유저의 경험과 역량을 유기적으로 연결해요 
+
+
+
+<br>
 
 
 
@@ -42,30 +48,10 @@
 | **기획** | 안수영 | 📋 서비스 기획 - 서비스 정책 확립, 비즈니스 모델 구축 |
 | **디자인 리드** | 김한결 | 🔐 디자인 리드,  ux/ui디자인, gui 디자인 |
 | **디자인**  | 김승은 | 📢 ux/ui디자인, gui 디자인 |
-| **프론트엔드 리드** | 오유민 | 🔦 프론트엔드 리드, 화면 UI 구현, 서버 연동 |
-| **프론트엔드** | 안연아 | 📱 화면 UI 구현, 서버 연동 |
-| **백엔드 리드** | 김다은 | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
-| **백엔드** | 오세연 | 🖥️ DB 및 API 구축, 서버 배포 |
-
-<br><br><br>
-
-# 🌟 서비스 개요
-![간지장표](https://github.com/user-attachments/assets/1113c19d-2721-450f-a963-74ff6d0c6bb2)
-
-<br>
-
-### 핵심 기능
-
-✏️ **경험 기록**
-
-(1) 빠르고 간편하게, 꾸준하게  ➡️  **AI 채팅 기록, 메모 기록** <br>
-(2) 경험 구체화 ➡️ 경험 기록 / 역량 분석에 최적화된 프롬프트 활용 <br><br>
-
-
-📈 **역량 분석**
-
-(1)  **AI 경험 요약** ➡️ 경험에서 핵심 내용을 추출해요 <br>
-(2) **AI 역량 분석** ➡️ 작성한 경험을 바탕으로 유저의 경험과 역량을 유기적으로 연결해요 
+| **프론트엔드 리드** | [오유민](https://github.com/yuminnnnni) | 🔦 프론트엔드 리드, 화면 UI 구현, 서버 연동 |
+| **프론트엔드** | [안연아](https://github.com/yeona813) | 📱 화면 UI 구현, 서버 연동 |
+| **백엔드 리드** | [김다은](https://github.com/daeun084) | 💻 백엔드 리드, DB 및 API 구축, 서버 배포 |
+| **백엔드** | [오세연](https://github.com/oosedus) | 🖥️ DB 및 API 구축, 서버 배포 |
 
 <br><br><br>
 
@@ -182,14 +168,86 @@
 <br><br>
 
 # 🔍 기능 살펴보기 
-
+#### 1️⃣ STEP 1 : 경험 기록
 <img width="1920" alt="서비스 point" src="https://github.com/user-attachments/assets/36f122a9-80e4-434c-b2b2-2e9e3bb329b8">
 <img width="1920" alt="서비스 point-1" src="https://github.com/user-attachments/assets/a6404091-e9fe-4e51-9e03-e3e258dae499">
+
+**💬 AI 채팅 기록** : **AI와 경험 구체화** <br>
+- STAR 기법을 학습한 채팅 프롬프팅으로 고도화된 답변을 받을 수 있어요
+- 친구처럼 대화하면 자연스럽게 경험이 정리돼요
+<br>
+
+**📝 메모 기록 : 간편하고 빠르게 기록하는 방법** <br>
+- 부담 없이 빠르게 기록할 수 있어요
+<br>
+
+
+**🗂️ 경험 모아보기 : 체계적인 경험 정리** <br>
+- 날짜별, 경험 종류별, 역량 키워드별로 폴더링해요
+- 필요한 내용을 빠르게 찾아 활용할 수 있어요
+<br><br>
+
+
+#### 2️⃣ STEP 2 : 역량 모아보기
 <img width="1920" alt="서비스 point-2" src="https://github.com/user-attachments/assets/6ee1d558-1437-412f-95a8-377754b3a364">
 <img width="1920" alt="서비스 point-3" src="https://github.com/user-attachments/assets/d1eb9dd0-900d-4ca9-958a-61cafd7fcacc">
 <img width="1920" alt="463" src="https://github.com/user-attachments/assets/24e54064-9448-4ee9-807d-e4d7f0300378">
 
-<br><br>
+**🔎 역량 키워드 모아보기 : 역량별로 정리된 경험** <br>
+- 특정 역량과 관련된 경험을 손쉽게 찾아 활용할 수 있어요
+<br>
+
+**📊 역량 그래프 : 한눈에 보는 나의 역량 그래프** <br>
+- 나의 강점이 무엇인지 확인해 보세요
+<br>
+
+**👩🏻‍💻 경험 요약 ∙ 핵심 역량 추출 ∙ 피드백** <br>
+- 경험별로 핵심 역량을 추출하고 상세 분석 내용을 제공해요
+- 경험에 대한 구체적인 피드백을 지원해요
+<br><br><br>
+
+
+
+# 🗺️ 포지셔닝 맵
+모아모아는 AI를 활용해 데일리 경험을 기록하고 경험 정리를 도와주는 서비스입니다! <br>
+- **`X축`**: 기록 방식 (수기 작성 ↔ AI 지원)
+    - 경험 기록을 혼자 하는가? AI의 도움을 받는가?
+- **`Y축`** : 경험 정리 스타일 (일상적인 기록 ↔ 각 잡고 정리)
+    - 일상적으로 경험을 모으는가? 각 잡고 정리하는가?
+
+![포지셔닝 맵](https://github.com/user-attachments/assets/361e87c9-2657-4115-95a1-a785e8b73bf1)
+
+<br><br><br>
+
+
+# 💰 비즈니스 모델
+<img width="1920" alt="비즈니스모델" src="https://github.com/user-attachments/assets/8e1537fb-d4a2-4208-883c-875f4b9fe069">
+![비즈니스 모델2](https://github.com/user-attachments/assets/238ac2fb-1ad2-4b70-988f-c76838eafb41)
+
+
+
+<br><br><br>
+
+# 🎨 Design
+![디자인시스템](https://github.com/user-attachments/assets/e291bae0-c103-4864-95b5-14307ccc76fb)
+![그래픽스타일](https://github.com/user-attachments/assets/60a757de-0155-40ac-a615-555e241c13d1)
+![로고 심볼](https://github.com/user-attachments/assets/0b4e6b6c-fb5c-41d0-8485-19008da9bca0)
+
+<br><br><br>
+
+
+
+# 🖥️ 화면 GUI
+![gui_onboarding](https://github.com/user-attachments/assets/eb9b2b22-f023-49b7-b916-de5d7319adf9)
+![gui_home](https://github.com/user-attachments/assets/3c16074b-30ac-4b82-a306-0d34a6037f5b)
+![gui_record](https://github.com/user-attachments/assets/79047516-198b-4b7c-a09c-eba207d7e786)
+![gui_analysis](https://github.com/user-attachments/assets/700419b9-b660-4db1-aeb6-f15414a487c6)
+![gui_keyword](https://github.com/user-attachments/assets/0bc5337a-ca19-46f3-a7e1-8a80ca65fba8)
+![gui_mypage](https://github.com/user-attachments/assets/81c04f03-3b14-4683-85e4-435995fd13ed)
+
+
+<br><br><br>
+
 
 
 # 💻 Stack
