@@ -4,7 +4,7 @@
 
 <br><br>
 
-![간지장표](https://github.com/user-attachments/assets/350d30a3-a9e4-4c51-954c-a9cce18fb1f6)
+
 
 <br>
 
@@ -20,6 +20,10 @@
 <br><br>
 
 # ✏️ Project
+<img width="1920" alt="background" src="https://github.com/user-attachments/assets/8f603160-4322-473b-aa5b-2ca17e6c5f86">
+<img width="1920" alt="painpoint-solution" src="https://github.com/user-attachments/assets/5ac89812-979c-4f72-a123-962ca287471e">
+<img width="1920" alt="service_goal" src="https://github.com/user-attachments/assets/181557ab-bb74-420b-8682-385ba71e76fa">
+
 <img width="1920" alt="서비스 point" src="https://github.com/user-attachments/assets/36f122a9-80e4-434c-b2b2-2e9e3bb329b8">
 <img width="1920" alt="서비스 point-1" src="https://github.com/user-attachments/assets/a6404091-e9fe-4e51-9e03-e3e258dae499">
 <img width="1920" alt="서비스 point-2" src="https://github.com/user-attachments/assets/6ee1d558-1437-412f-95a8-377754b3a364">
@@ -96,6 +100,13 @@
 
 <br><br>
 
+# 🗒️ API 명세서
+https://spiny-lake-7e5.notion.site/API-10b37be2e3fa8020a345c0aa4089a0a0?pvs=4
+
+
+
+<br><br>
+
 # 📏 Convention
 ### 🛠️ BackEnd
 
@@ -127,7 +138,7 @@
 - 작업 중 참고한 자료 혹은 reviewer에게 전할 내용이 있다면 하단에 작성
 
 #### Branch
-- Branch Name : **`컨벤션명/#이슈번호`**
+- Branch Name : **`ConventionType/#이슈번호`**
 - `Pull Request`를 통해 develop branch에 merge 후, 해당 branch 제거
 
 <br>
